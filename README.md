@@ -1,1 +1,1 @@
-# growthlink-PROJECT-Churn-analyst
+This project focuses on analyzing churn data to understand patterns and factors contributing to customer attrition. The primary objective is to build a predictive model that can identify customers likely to churn, helping businesses take proactive retention measures.
